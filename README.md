@@ -6,18 +6,18 @@
 
 Goal: RAG Optimization
 
-🛠️ Automatic Chunking – Splits large documents into semantically meaningful chunks
-🕵️ Customizable Chunking Strategies – Choose from fixed-size, semantic, or overlap-based chunking
-🕵️ Embeddings Integration – Supports OpenAI, Mistral, DeepSeek, and other embedding models
-🕵️ Efficient Storage & Retrieval – Works seamlessly with vector databases (e.g., Pinecone, ChromaDB, Weaviate, FAISS)
+🛠️ Automatic Chunking – Splits large documents into semantically meaningful chunks<br>
+🕵️ Customizable Chunking Strategies – Choose from fixed-size, semantic, or overlap-based chunking<br>
+🕵️ Embeddings Integration – Supports OpenAI, Mistral, DeepSeek, and other embedding models<br>
+🕵️ Efficient Storage & Retrieval – Works seamlessly with vector databases (e.g., Pinecone, ChromaDB, Weaviate, FAISS)<br>
 🕵️ Multiple File Support – Ingests PDFs, Word docs, Markdown, and plain text
 
-🛠️ — in progress
+🛠️ — in progress<br>
 🕵️ — investigating
 
 ## Use Cases
 
-🔍 AI-Powered Search – Enhance document retrieval for research or internal knowledge bases
-💬 Chatbots & Virtual Assistants – Enable LLMs to generate more contextually accurate responses
-📖 Legal & Compliance – Process and search through large contracts, policies, and legal texts
+🔍 AI-Powered Search – Enhance document retrieval for research or internal knowledge bases<br>
+💬 Chatbots & Virtual Assistants – Enable LLMs to generate more contextually accurate responses<br>
+📖 Legal & Compliance – Process and search through large contracts, policies, and legal texts<br>
 📚 Academic & Research – Break down scientific papers and books into structured data
