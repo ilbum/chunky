@@ -9,8 +9,10 @@ Goal: RAG Optimization
 🛠️ Automatic Chunking – Splits large documents into semantically meaningful chunks<br>
 🕵️ Customizable Chunking Strategies – Choose from fixed-size, semantic, or overlap-based chunking<br>
 🕵️ Embeddings Integration – Supports OpenAI, Mistral, DeepSeek, and other embedding models<br>
+🕵️ Google Docs Integration – Automatically generates RAG-based summaries and exports to Google Docs<br>
 🕵️ Efficient Storage & Retrieval – Works seamlessly with vector databases (e.g., Pinecone, ChromaDB, Weaviate, FAISS)<br>
 🕵️ Multiple File Support – Ingests PDFs, Word docs, Markdown, and plain text
+🕵️ LLM  – Ingests PDFs, Word docs, Markdown, and plain text
 
 🛠️ — in progress<br>
 🕵️ — investigating
