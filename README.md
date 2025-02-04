@@ -11,7 +11,7 @@ Goal: RAG Optimization
 🕵️ Embeddings Integration – Supports OpenAI, Mistral, DeepSeek, and other embedding models<br>
 🕵️ Google Docs Integration – Automatically generates RAG-based summaries and exports to Google Docs<br>
 🕵️ Efficient Storage & Retrieval – Works seamlessly with vector databases (e.g., Pinecone, ChromaDB, Weaviate, FAISS)<br>
-🕵️ Multiple File Support – Ingests PDFs, Word docs, Markdown, and plain text
+🕵️ Multiple File Support – Ingests PDFs, Word docs, Markdown, and plain text<br>
 🕵️ LLM  – Ingests PDFs, Word docs, Markdown, and plain text
 
 🛠️ — in progress<br>
